@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/18sbK2UNnXPQ3JNHmJmA2uhHuTz1R1bEC
 """
 
-pip install gradio
+
 
 import torch
 import torch.nn as nn
